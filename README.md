@@ -3,7 +3,10 @@
 
 # BMP280
 BMP280 is a digital pressure Sensor.
-This Device is available from www.ncd.io [SKU: BMP280_I2CS]
+This Device is available from www.ncd.io 
+
+[SKU: BMP280_I2CS]
+
 (https://store.ncd.io/product/bmp280-digital-pressure-sensor-300-1100-hpa-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
